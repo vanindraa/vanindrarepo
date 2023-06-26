@@ -1,0 +1,100 @@
+ID;Date;Company;City;Touchpoint;Age;Employment;Satisfaction;Recommend;NPS;NPS_Score;Reasons
+1;20-01-05;Customer_1;Banjarmasin;Perizinan;46 - 50;11 - 15 Tahun;Puas;8;Neutral;0;Untuk saat ini sudah baik, namun ada baiknya saat instalasi ada pengawas dari TP terkait  k3 yg harus dipatuhi pekerja re
+2;20-01-06;Customer  3;Bodetabek;Perizinan;36 - 40;6 - 10 Tahun;Puas;7;Neutral;0;Perlu nya koordinasi yang bagus internal Mitrartel HO dan Regional Project. Penangan issue site yang cepat dan memerlukan informasi yang jelas ke costomer.
+3;20-01-07;Customer_2;Semarang;Perizinan;> 50;> 25 Tahun;Puas;7;Neutral;0;Terkait Perijinan dgn tower reseler (masih lambat)
+4;20-01-08;Customer_2;Semarang;Perizinan;41 - 45;16 - 20 Tahun;Puas;9;Promoter;1;simplifikasi proses khusus utk site reseller
+5;20-01-09;Customer_4;Jakarta;Perizinan;41 - 45;6 - 10 Tahun;Biasa saja;5;Detractor;-1;komunikasi ke customer, agar bisa lebih humble lagi. terutama untuk menyelesaikan persoalan lokasi karena ada issue LL atau commcase
+6;20-01-10;Customer_5;Balikpapan;Perizinan;> 50;16 - 20 Tahun;Puas;8;Neutral;0;Sudah bagus
+7;20-01-11;Customer_2;Balikpapan;Perizinan;36 - 40;11 - 15 Tahun;Tidak puas;4;Detractor;-1;feedback & kordinasi ke customer sangat kurang.  lead time tdk jelas, support only office hour.
+8;20-01-12;Customer_1;Makassar;Perizinan;46 - 50;11 - 15 Tahun;Biasa saja;6;Neutral;0;Respond time
+9;20-01-13;Customer_1;Makassar;Perizinan;46 - 50;11 - 15 Tahun;Biasa saja;7;Neutral;0;Respond time
+10;20-01-14;Customer_1;Medan;Perizinan;46 - 50;< 5 Tahun;Puas;7;Neutral;0;koordinasi ditingkatkan
+11;20-01-15;Customer_1;Jakarta;Perizinan;36 - 40;11 - 15 Tahun;Biasa saja;6;Neutral;0;no comment
+13;20-01-17;Customer_2;Medan;Perizinan;41 - 45;16 - 20 Tahun;Sangat puas;10;Promoter;1;Tingkatkan terus koordinasi dan komunikasi
+14;20-01-18;Customer  3;Jakarta;Perizinan;> 50;6 - 10 Tahun;Tidak puas;3;Detractor;-1;Respons yang cepat dari team CLIENT untuk setiap eskalasi yg membutuhkan support CLIENT.
+15;20-01-19;Customer_4;Palangkaraya;Perizinan;36 - 40;6 - 10 Tahun;Puas;9;Promoter;1;kemudahan akses
+16;20-01-20;Customer_4;Jakarta;Perizinan;36 - 40;6 - 10 Tahun;Biasa saja;5;Detractor;-1;respond team yang cepat dalam megeluarkan permit
+17;20-01-21;Customer_4;Surabaya;Perizinan;30 - 35;6 - 10 Tahun;Puas;7;Neutral;0;Memberikan actual sesuai plan
+18;20-01-22;Customer  3;Balikpapan;Perizinan;36 - 40;6 - 10 Tahun;Biasa saja;6;Neutral;0;koordinasi dan regular meeting
+19;20-01-23;Customer  3;Makassar;Perizinan;36 - 40;6 - 10 Tahun;Biasa saja;7;Neutral;0;Proses permit site under Customer_6 group
+20;20-01-24;Customer_5;Jakarta;Perizinan;46 - 50;> 25 Tahun;Biasa saja;5;Detractor;-1;Commitment delivery time
+21;20-01-25;Customer_2;Jayapura;Perizinan;36 - 40;11 - 15 Tahun;Puas;9;Promoter;1;Mungkin dibuatkan dashboard tracking release permit sejak KKST keluar
+22;20-01-26;Customer_4;Jakarta;Perizinan;36 - 40;6 - 10 Tahun;Biasa saja;5;Detractor;-1;1. target pekerjaaan harus sesuai, jgn lambat  2.support permit harus lebih baik, jgn lambat  3.follw up project harus lebih aktif
+23;20-01-27;Customer_1;Jakarta;Perizinan;46 - 50;6 - 10 Tahun;Puas;9;Promoter;1;Responsif
+24;20-01-28;Customer_5;Jakarta;Perizinan;41 - 45;11 - 15 Tahun;Tidak puas;3;Detractor;-1;Support dari tim perizinan dari Regional, masih kurang
+25;20-01-29;Customer_5;Makassar;Perizinan;41 - 45;16 - 20 Tahun;Biasa saja;6;Neutral;0;Respon
+26;20-01-30;Customer_2;Jakarta;Perizinan;36 - 40;16 - 20 Tahun;Sangat tidak puas;2;Detractor;-1;Kejelasan Bispro, kejelasan tugas masing-masing fungsi antara HQ dan Area, capability/kemampuan team, kecepatan/respon terhadap kebutuhan customer, Database.    Adanya rolling team kantor pusat CLIENT ke Area agar mengerti kebutuhan team area terhadap kejelasan proses, kebutuhan update data serta progres serta mengerti kebutuhan customer.
+27;20-02-01;Customer  3;Jakarta;Perizinan;36 - 40;< 5 Tahun;Sangat puas;10;Promoter;1;Butuh improvement progress untuk perkuatan tower masih sangat kurang
+28;20-02-02;Customer  3;Bandung;Perizinan;41 - 45;6 - 10 Tahun;Biasa saja;7;Neutral;0;koordinasi
+29;20-02-03;Customer_4;Denpasar;Perizinan;> 50;6 - 10 Tahun;Sangat puas;9;Promoter;1;Terkecuali tower STO, permit sudah sangat baik pelayanannya.
+30;20-02-04;Customer_5;Surabaya;Perizinan;46 - 50;> 25 Tahun;Puas;8;Neutral;0;Update status projek CLIENT rutin
+31;20-02-05;Customer  3;Bandung;Perizinan;36 - 40;16 - 20 Tahun;Puas;9;Promoter;1;Koordinasi
+32;20-02-06;Customer_2;Jayapura;Perizinan;36 - 40;11 - 15 Tahun;Sangat tidak puas;2;Detractor;-1;PIC Region untuk proses perijinan, tidak terpusat
+33;20-02-07;Customer_2;Jayapura;Perizinan;36 - 40;11 - 15 Tahun;Sangat tidak puas;3;Detractor;-1;Hubungan dengan tower owner, utamanya dengan Customer_5 Proses nya sangat lama ketika permit di ajukan ke Customer_5.
+34;20-02-08;Customer_4;Medan;Perizinan;46 - 50;16 - 20 Tahun;Biasa saja;6;Neutral;0;Percepatan Process izin access, khusunya di tower Customer_2 yg take time ketika kami minta izin masuk
+35;20-02-09;Customer_2;Jakarta;Perizinan;36 - 40;16 - 20 Tahun;Tidak puas;3;Detractor;-1;1. Perkuatan koordinasi antara CLIENT area/regional dengan CLIENT HQ, karena selama ini team Area sudah sangat support namun CLIENT HQ tidak kooperatif dan responsif terkait proses pengeluaran ijin /permit   2. Banyaknya proses internal di CLIENT yang berimpact ke customer ( misal untuk perkuatan proses dari penunjukan konsultan hingga penunjukkan mitra untuk pengerjaan bisa membutuhkan waktu >2bulan di luar pekerjaan perkuatannya sendiri  3. Koordinasi dengan Marketing / sales CLIENT HQ kurang harmonis ( Diundang meeting jarang hadir, di telpon susah/tidak diangkat )  4. Perlunya rotasi posisi antara HQ dan regional agar semua pihak bisa menghargai posisi kerja sesama rekan di CLIENT ( CLIENT HQ selalu merasa lebih tinggi secara posisi dengan Area/regional )
+36;20-02-10;Customer  3;Palembang;Perizinan;36 - 40;6 - 10 Tahun;Biasa saja;6;Neutral;0;Proses pengeluaran ijin activity di site sangat lama terutama Tower milik T-sel
+37;20-02-11;Customer_5;Denpasar;Perizinan;46 - 50;> 25 Tahun;Puas;7;Neutral;0;Respon cepat 1 x 24 jam ijin keluar dan akses ke tower mudah
+38;20-02-12;Customer_2;Pekanbaru;Perizinan;36 - 40;11 - 15 Tahun;Puas;7;Neutral;0;Hirarki approval perlu disimplify
+39;20-02-13;Customer_1;Medan;Perizinan;41 - 45;11 - 15 Tahun;Puas;9;Promoter;1;Percepatan proses permit site Customer_6
+40;20-02-14;Customer_5;Bandung;Perizinan;41 - 45;16 - 20 Tahun;Tidak puas;3;Detractor;-1;Respon dan Handling di Lapangan
+41;20-02-15;Customer_5;Balikpapan;Perizinan;41 - 45;16 - 20 Tahun;Puas;8;Neutral;0;Informasi progress persetujuannya
+42;20-02-16;Customer  3;Pontianak;Perizinan;36 - 40;6 - 10 Tahun;Puas;9;Promoter;1;Khusus untuk proses permit di site Customer_2 membutuhkan waktu yg lebih lama. Harapan nya bisa lebih cepat.
+43;20-02-17;Customer_2;Bandung;Perizinan;36 - 40;11 - 15 Tahun;Biasa saja;7;Neutral;0;CLIENT HQ harus ada SLA pengeluaran surat izin   CLIENT Regional sudah full support namun jika HQ lambat maka akan berimpact pada alur pengeluaran suart izin
+44;20-02-18;Customer_2;Semarang;Perizinan;36 - 40;16 - 20 Tahun;Puas;7;Neutral;0;Proses percepatan surat ijin ke tower reseller
+45;20-02-19;Customer_1;Makassar;Perizinan;41 - 45;< 5 Tahun;Tidak puas;4;Detractor;-1;Untuk permit Sulawesi sudah cepat,   Untuk Kalimantan perlu ditingkatkan kecepatan feedback permitnya
+46;20-02-20;Customer_2;Bandung;Perizinan;41 - 45;> 25 Tahun;Sangat tidak puas;0;Detractor;-1;Respon , kecepatn permit terutama.site reseller  Site butuh perkuatan juga sangat tidak jelas
+47;20-02-21;Customer  3;Makassar;Perizinan;41 - 45;< 5 Tahun;Puas;9;Promoter;1;Proses pengeluaran ijin pasang perangkat untuk site-site STO & under Customer_2 dipermudah.
+49;20-02-23;Customer  3;Denpasar;Perizinan;36 - 40;6 - 10 Tahun;Biasa saja;7;Neutral;0;Izin Ke STO di Percepat  Respond setiap request Permit
+51;20-02-25;Customer  3;Jakarta;Perizinan;30 - 35;< 5 Tahun;Biasa saja;7;Neutral;0;Tidak tahu
+53;20-02-27;Customer_2;Palembang;Perizinan;41 - 45;16 - 20 Tahun;Puas;9;Promoter;1;Permit site reseller agar maksimal 3 hari
+54;20-02-28;Customer_2;Palembang;Perizinan;41 - 45;16 - 20 Tahun;Puas;7;Neutral;0;Untuk Site Reseller, permit bisa agar dapat dipercepat maksimal 3 hari kerja
+55;20-03-01;Customer_4;Makassar;Perizinan;30 - 35;6 - 10 Tahun;Puas;7;Neutral;0;Respon case sangat lambat
+56;20-03-02;Customer_1;Banjarmasin;Perizinan;> 50;> 25 Tahun;Puas;9;Promoter;1;Kecepatan proses permit sesuai SLA
+58;20-03-04;Customer_2;Pekanbaru;Perizinan;30 - 35;11 - 15 Tahun;Biasa saja;7;Neutral;0;Semangat untuk sebuah solusi
+59;20-03-05;Customer  3;Pekanbaru;Perizinan;36 - 40;6 - 10 Tahun;Tidak puas;5;Detractor;-1;Release permit keluar terlalu lama apabila site tsb milik Customer_2 dan DMT tidak berdaya serta kurang push ketika blocking nya di Tsel
+60;20-03-06;Customer  3;Medan;Perizinan;36 - 40;11 - 15 Tahun;Puas;7;Neutral;0;informasi dini terkait status site untuk pekerjaan installasi perangkat
+61;20-03-07;Customer  3;Sumatera;Perizinan;36 - 40;6 - 10 Tahun;Puas;7;Neutral;0;khusus untuk tower milik tsel, agar proses IP bisa lebih dipercepat proses IP nya, karena byk vendor yg akan merealiasasikan signal tenant baru
+62;20-03-08;Customer  3;Medan;Perizinan;36 - 40;6 - 10 Tahun;Biasa saja;6;Neutral;0; Percepatan release permit terutama untuk site colo Customer_2
+63;20-03-09;Customer_2;Palembang;Perizinan;30 - 35;6 - 10 Tahun;Puas;8;Neutral;0;Percepatan permit untuk site re-seller
+64;20-03-10;Customer_4;Makassar;Perizinan;36 - 40;6 - 10 Tahun;Puas;7;Neutral;0;membuka lebih banyak tower Customer_2 untuk dicolo
+65;20-03-11;Customer_4;Bandung;Perizinan;30 - 35;6 - 10 Tahun;Puas;9;Promoter;1;DIpermudah untuk proses request permit atau izin kerja
+66;20-03-12;Customer_1;Palembang;Perizinan;41 - 45;6 - 10 Tahun;Biasa saja;5;Detractor;-1;Request Permit untuk akses site seringkali low respon tanpa ada informasi sebab delaynya release permit tersebut.  Issue akses issue seringkali lama dalam penyelesaiannya.
+67;20-03-13;Customer_1;Bandung;Perizinan;41 - 45;11 - 15 Tahun;Puas;9;Promoter;1;Koordinasi masalah isu di lokasi yg menyebabkan permit telat rilis
+68;20-03-14;Customer_2;Makassar;Perizinan;41 - 45;> 25 Tahun;Tidak puas;5;Detractor;-1;SLA dengan OLO harus clear dan   diterapkan
+69;20-03-15;Customer_2;Denpasar;Perizinan;36 - 40;11 - 15 Tahun;Tidak puas;4;Detractor;-1;terkait layanan DMT - Olo yang sangat lambat dalam hal asessment maupun approval nya dan perlu sebuah dashboard untuk monitoring progress nya agar SLA tercapai
+70;20-03-16;Customer_1;Bandung;Perizinan;36 - 40;11 - 15 Tahun;Puas;8;Neutral;0;Percepatan Trouble Ticket (TT) Acces Block, Commcase, dll, sites After RFI.
+71;20-03-17;Customer  3;Surabaya;Perizinan;36 - 40;6 - 10 Tahun;Puas;8;Neutral;0;Durasi SLA, service level agreeement   tidak ada delay dalam delivery pekerjaan termasuk released permit implementasi
+72;20-03-18;Customer_2;Balikpapan;Perizinan;30 - 35;11 - 15 Tahun;Biasa saja;5;Detractor;-1;Respon dan delivery project lbh akurat
+73;20-03-19;Customer_1;Bodetabek;Perizinan;41 - 45;11 - 15 Tahun;Puas;7;Neutral;0;Lebih Active, dan kalau bisa req Permit On Lain
+74;20-03-20;Customer_4;Medan;Perizinan;36 - 40;< 5 Tahun;Puas;8;Neutral;0;CLIENT sudah cukup mudah dalam menerbitkan izin pemasangan perangkat
+75;20-03-21;Customer_2;Medan;Perizinan;36 - 40;16 - 20 Tahun;Sangat puas;10;Promoter;1;yang perlu di tingkat adalah system by online pengajuan permit dan approval by online nanti mitra akan print permit untuk ke site atau menunjukan permit by app ke pjs
+76;20-03-22;Customer_2;Jakarta;Perizinan;41 - 45;> 25 Tahun;Puas;8;Neutral;0;Proses pengajuan Permit terutama yang CoRe bisa diperbaiki
+78;20-03-24;Customer_5;Palembang;Perizinan;> 50;> 25 Tahun;Sangat puas;10;Promoter;1;Sudah sangat bagus sekarang ini
+79;20-03-25;Customer_2;Pekanbaru;Perizinan;36 - 40;11 - 15 Tahun;Puas;7;Neutral;0;Koordinasi Internal dan Informasi Akurat untuk SOP dan Requirements yang diperlukan untuk percepatan SIM
+80;20-03-26;Customer_4;Bandung;Perizinan;36 - 40;6 - 10 Tahun;Puas;7;Neutral;0;Once state RFI, include dengan permit kerja
+82;20-03-28;Customer_4;Bandung;Perizinan;41 - 45;< 5 Tahun;Puas;8;Neutral;0;Respon di percepat bila ada Blackout
+83;20-03-29;Customer_2;Bandung;Perizinan;30 - 35;6 - 10 Tahun;Puas;7;Neutral;0;Percepatan proses CAF,  Percepatan izin site2 reseller,
+84;20-03-30;Customer_2;Makassar;Perizinan;41 - 45;> 25 Tahun;Tidak puas;5;Detractor;-1;Percepatan birokrasi terutama site-site colo
+85;20-01-05;Customer_5;Bandung;Perizinan;46 - 50;16 - 20 Tahun;Tidak puas;3;Detractor;-1;SLA pengurusan SIK dan Feedback CAF maksimal 3 hari
+86;20-01-06;Customer_2;Medan;Perizinan;30 - 35;6 - 10 Tahun;Biasa saja;6;Neutral;0;Kerjasama dan fast respone
+88;20-01-08;Customer_5;Jakarta;Sales & Marketing;16 - 20 Tahun;< 5 Tahun;Puas;8;Neutral;0;Agar lebih responsive
+89;20-01-09;Customer  3;Jakarta;Sales & Marketing;< 5 Tahun;< 5 Tahun;Sangat puas;10;Promoter;1;Sebaiknya unit Marketing mempunyai database yang terintegrasi dengan unit lainnya
+90;20-01-10;Customer_1;Bodetabek;Sales & Marketing;11 - 15 Tahun;6 - 10 Tahun;Puas;9;Promoter;1;Lebih Active dan coperative,
+92;20-01-12;Customer  3;Jakarta;Sales & Marketing;< 5 Tahun;< 5 Tahun;Sangat puas;9;Promoter;1;Intensitas team sales CLIENT dalam melakukan komunikasi penggalian kebutuhan
+93;20-01-13;Customer_2;Jakarta;Sales & Marketing;< 5 Tahun;< 5 Tahun;Puas;9;Promoter;1;Untuk marketing dan sales regional yang berhubungan langsung dengan tim RANE Jabotabek cukup responsif dan kooperarif. Namun untuk beberapa kasus, terkendala dengan tim Marketing dan Sales HQ CLIENT sehingga banyak issue yang sulit diselesaikan.
+94;20-01-14;Customer_4;Jakarta;Sales & Marketing;6 - 10 Tahun;6 - 10 Tahun;Sangat puas;10;Promoter;1;Prosesnya agar lebih dipercepat lagi
+95;20-01-15;Customer_2;Jakarta;Sales & Marketing;< 5 Tahun;< 5 Tahun;Puas;8;Neutral;0;Untuk team Marketing & sales regional sudah baik & selalu support. Sedangkan untuk team marketing & sales pusat DMT sangat tidak kooperatif, tidak responsif, tidak solutif, ketidakjelasan bisnis prosesnya & jarang hadir jika diundang meeting.
+96;20-01-16;Customer_2;Jakarta;Sales & Marketing;11 - 15 Tahun;< 5 Tahun;Sangat puas;9;Promoter;1;Setingkat manager CLIENT terlalu sombong
+97;20-01-17;Customer_1;Jakarta;Sales & Marketing;6 - 10 Tahun;6 - 10 Tahun;Puas;8;Neutral;0;Kelengkapan dan keakuratan database  
+98;20-01-18;Customer_2;Jakarta;Sales & Marketing;< 5 Tahun;< 5 Tahun;Puas;7;Neutral;0;Kelengkapan data CLIENT harus lebih comply, Kom/DRM lengkap
+99;20-01-19;Customer_2;Jakarta;Sales & Marketing;16 - 20 Tahun;< 5 Tahun;Puas;7;Neutral;0;kunjungan ke Customer_2 lebih ditingkatkan
+100;20-01-20;Customer_2;Jakarta;Sales & Marketing;11 - 15 Tahun;< 5 Tahun;Puas;7;Neutral;0;So far support tim marsal regional cukup baik  Tetapi untuk support tim Marsal CLIENT ktr pusat :  agar ditingkatkan karena walaupun customer di regional tidak berhubungan langsung dgn tim marsal ktr pusat CLIENT tetapi impactnya tetap ke kami (customer regional), karena banyak hal yang tidak bisa di support oleh tim marsal regional karena memang bukan kapasitas mereka
+101;20-01-21;Customer_5;Jakarta;Sales & Marketing;11 - 15 Tahun;11 - 15 Tahun;Biasa saja;5;Detractor;-1;Kecepatan respon kurang
+102;20-01-22;Customer_5;Jakarta;Sales & Marketing;11 - 15 Tahun;< 5 Tahun;Biasa saja;5;Detractor;-1;Perbaikan data yang dijadikan referensi oleh tim marketing
+103;20-01-23;Customer_2;Jakarta;Sales & Marketing;> 25 Tahun;< 5 Tahun;Biasa saja;5;Detractor;-1;Inisiatif dan Proaktif
+105;20-01-25;Customer_2;Jakarta;Sales & Marketing;< 5 Tahun;< 5 Tahun;Puas;7;Neutral;0;memperkuat database sehingga sewaktu klarifikasi sudah punya data sendiri.
+106;20-01-26;Customer_2;Jakarta;Sales & Marketing;16 - 20 Tahun;< 5 Tahun;Puas;8;Neutral;0;Penambahan tim & kinerjanya
+107;20-01-27;Customer_2;Jakarta;Sales & Marketing;11 - 15 Tahun;< 5 Tahun;Biasa saja;5;Detractor;-1;tolong CLIENT HQ :  Resposif , Solutif , koordinatif , KOmitmen
+108;20-01-28;Customer_2;Jakarta;Sales & Marketing;16 - 20 Tahun;6 - 10 Tahun;Puas;9;Promoter;1;pengelolaan database tower, sebagai produk yg ditawarkan
+110;20-01-30;Customer_4;Jakarta;Sales & Marketing;11 - 15 Tahun;< 5 Tahun;Puas;8;Neutral;0;Durasi proses finalisasi kontrak sampai dengan ditandatanganinya kontrak dapat dipersingkat
